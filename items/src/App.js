@@ -7,6 +7,7 @@ function App() {
 <section className="User">
     <Item name="Dal" price="50" quality="Good"/>
     <Item  name="Rice" price="150" quality="bad"  />
+    <Item  name="Flour" price="100" quality="good"  />
     </section>
   </div>
 }
